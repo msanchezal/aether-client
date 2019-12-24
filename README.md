@@ -45,3 +45,8 @@ To generate a development build
     npm run build-dev
 
 Builds will be be generated into a `dist` folder and will contain commonjs and umd bundles that will be consumed depending on the module system in whichever environment you are using.
+
+
+## Publish
+in the root folder run:
+```npm publish```
